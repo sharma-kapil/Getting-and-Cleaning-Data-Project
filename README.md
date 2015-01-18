@@ -1,9 +1,5 @@
----
-title: "Getting and Cleaning Data Project README"
-author: "Kapil Sharma"
-date: "Sunday, January 18, 2015"
-output: html_document
----
+# README - Getting and Cleaning Data Project
+
 
 ## Course Project 
 

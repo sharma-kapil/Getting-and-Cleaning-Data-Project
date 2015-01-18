@@ -1,9 +1,4 @@
----
-title: "Getting and Cleaning Data Project Code Book"
-author: "Kapil Sharma"
-date: "Sunday, January 18, 2015"
-output: html_document
----
+# Getting and Cleaning Data Project Code Book
 
 This Code book describes the variables, the data, and transformations applied to the data to clean up the data.
 
