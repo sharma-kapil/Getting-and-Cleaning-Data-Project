@@ -11,9 +11,6 @@
 # https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 # The script should be saved / run from the folder where the dataset has been unzipped.
 
-# Change the working directory to the correct folder on your machine
-setwd("C:\\Users\\monk\\Documents\\Kapil\\Education\\Course 3\\Course3-Project")
-
 #Uses the data.table library. Install the package if it not already loaded.
 if (!require("data.table")) {
   install.packages("data.table")
