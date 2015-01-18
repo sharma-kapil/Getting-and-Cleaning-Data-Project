@@ -81,4 +81,4 @@ X_Avg_tidy<-X_Avg_tidy[order(activity,subject)]
 write.csv(X_Avg_tidy,"./tidy_data.txt",row.names=FALSE)
 
 #Clean up the remaining datasets
-#rm (X_Avg_tidy,X_full)
+rm (X_Avg_tidy,X_full)
